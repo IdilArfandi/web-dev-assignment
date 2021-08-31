@@ -1,0 +1,12 @@
+h3,p,pre,td{
+    color: rgb(26, 24, 24);
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: optional;
+    font-weight: 200;
+}
+    body{
+    background-image: url(saudi.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    }
