@@ -1,0 +1,37 @@
+body {
+    background-image: url(latar4.jpg);
+    background-size: 1500px auto;
+    background-repeat: repeat;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: aliceblue;
+
+}
+
+button {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+li{
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+#delete {
+    background-color:rgb(7, 132, 250);
+}
